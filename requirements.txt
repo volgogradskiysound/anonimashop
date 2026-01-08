@@ -9,7 +9,7 @@ aiosqlite==0.20.0
 anyio==4.5.2
 async-timeout==4.0.3
 colorama==0.4.6
-cx-Freeze==6.10
+cx-Freeze==8.5.3
 cx_Logging==3.2.0
 cycler==0.12.1
 Flask==2.3.3 
@@ -42,4 +42,5 @@ scipy==1.9.1
 SQLAlchemy==2.0.44
 telebot==0.0.5
 Telethon==1.42.0
+
 
