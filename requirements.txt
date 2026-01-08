@@ -1,6 +1,6 @@
 ﻿aiocryptopay==0.4.8
 aiofiles==24.1.0
-aiogram==3.13.1
+aiogram==2.25.1
 aiohappyeyeballs==2.4.4
 aiohttp==3.10.11
 aioschedule==0.5.2
@@ -42,3 +42,4 @@ scipy==1.9.1
 SQLAlchemy==2.0.44
 telebot==0.0.5
 Telethon==1.42.0
+
